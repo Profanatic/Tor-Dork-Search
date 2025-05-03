@@ -29,6 +29,7 @@ sudo systemctl start tor
 Clone this repository:
 
 git clone https://github.com/Profanatic/tor-dork-search.git
+
 cd tor-dork-search
 
 Install dependencies:
