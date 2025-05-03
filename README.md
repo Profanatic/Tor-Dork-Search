@@ -20,12 +20,13 @@ An OSINT tool for searching DuckDuckGo via Tor using search dorks.
 
 1. Install Tor:
   
-   # For Debian/Ubuntu
-   sudo apt install tor
-   sudo service tor start
+# For Debian/Ubuntu
 
-   Clone this repository:
+sudo apt install tor
+   
+sudo systemctl start tor 
 
+Clone this repository:
 
 git clone https://github.com/Profanatic/tor-dork-search.git
 cd tor-dork-search
